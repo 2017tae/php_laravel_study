@@ -936,6 +936,9 @@
 
                 <main class="mt-6">
                     간단한 소셜 미디어 웹사이트
+                    <div>
+                        <a href="/articles/create">글쓰기</a>
+                    </div>
                 </main>
             </div>
         </div>
